@@ -1,70 +1,70 @@
-# Astra Documentation  
-Powered by **Astray LLM**  
+# Documentation Astra  
+Propulsée par **Astray LLM**  
 
-Astra is a powerful AI assistant designed to help you with a variety of tasks, from analyzing images to providing smart responses to complex queries. Below is a guide on how to interact with Astra and leverage its different features.
+Astra est un assistant IA puissant conçu pour vous aider dans diverses tâches, allant de l'analyse d'images à la fourniture de réponses intelligentes à des requêtes complexes. Vous trouverez ci-dessous un guide pour interagir avec Astra et exploiter toutes ses fonctionnalités.
 
-## 🚀 Getting Started
+## 🚀 Commencer avec Astra
 
-To begin using Astra, you'll need to launch the **Astra** application:
+Pour commencer à utiliser Astra, vous devez d'abord lancer l'application **Astra** :
 
-1. **Locate the executable file**: Find the `Astra.exe` file on your system. This file is responsible for launching the Astra application.
-2. **Launch the app**: Double-click on **Astra.exe** to start the application.  
-   Once launched, the app will open, and you can begin interacting with Astra using the available commands.
+1. **Localisez le fichier exécutable** : Trouvez le fichier `Astra.exe` sur votre système. Ce fichier est responsable du lancement de l'application Astra.
+2. **Lancez l'application** : Double-cliquez sur **Astra.exe** pour démarrer l'application.  
+   Une fois lancée, l'application s'ouvrira et vous pourrez commencer à interagir avec Astra en utilisant les commandes disponibles.
 
 ---
 
-## 🕹️ New Features:
+## 🕹️ Nouvelles fonctionnalités :
 
 - **/vocal**  
-  Redirects to **Astra Vocal** 🎤  
-  Use this command to switch to Astra's voice interaction mode for hands-free communication.
+  Redirige vers **Astra Vocal** 🎤  
+  Utilisez cette commande pour passer en mode interaction vocale avec Astra, pour une communication sans les mains.
 
 - **/help**  
-  Displays available commands ❓  
-  If you’re unsure about the commands, just type `/help` to get a quick list of functionalities.
+  Affiche les commandes disponibles ❓  
+  Si vous n'êtes pas sûr des commandes, tapez simplement `/help` pour obtenir une liste rapide des fonctionnalités.
 
-- **/custom <text>**  
-  Customizes Astra’s behavior or responses 👾  
-  You can use this command to personalize Astra's settings based on your preferences. Provide a custom message or text, and Astra will adjust accordingly.
+- **/custom <texte>**  
+  Personnalise le comportement ou les réponses d'Astra 👾  
+  Utilisez cette commande pour personnaliser les réglages d'Astra en fonction de vos préférences. Fournissez un texte personnalisé et Astra s'ajustera en conséquence.
 
-## 📁 Analyzing Attachments
+## 📁 Analyser des pièces jointes
 
-To have **Astra** analyze an image file, follow these steps:
-1. Navigate to the **images folder** in your directory.
-2. Place the image inside the folder.
-3. Astra will automatically detect and analyze the image.
+Pour que **Astra** analyse un fichier image, suivez ces étapes :
+1. Allez dans le **dossier images** de votre répertoire.
+2. Placez l'image dans le dossier.
+3. Astra détectera et analysera automatiquement l'image.
 
-## 🔧 Available Models
+## 🔧 Modèles disponibles
 
-Astra utilizes different models optimized for various tasks. Choose the model that best suits your needs:
+Astra utilise différents modèles optimisés pour diverses tâches. Choisissez le modèle qui correspond le mieux à vos besoins :
 
 - **hiju-tiny**  
-  - Ultra-fast response for simple tasks.  
-  - Ideal for quick and small queries.
+  - Réponse ultra-rapide pour des tâches simples.  
+  - Idéal pour des requêtes rapides et de petite taille.
 
 - **astra-small**  
-  - Well-balanced performance for general tasks.  
-  - Great for day-to-day use with quick responses.
+  - Bonne performance générale pour des tâches variées.  
+  - Parfait pour une utilisation quotidienne avec des réponses rapides.
 
 - **astra-beta1**  
-  - An equilibrium between speed and precision.  
-  - Suitable for moderately complex tasks that require a balance of accuracy and response time.
+  - Équilibre entre rapidité et précision.  
+  - Adapté aux tâches modérément complexes nécessitant un compromis entre rapidité et exactitude.
 
 - **yaga-7**  
-  - Excellent for in-depth analysis and detailed understanding.  
-  - Use this model for tasks that require higher comprehension and detailed context.
+  - Excellente analyse et compréhension détaillée.  
+  - Utilisez ce modèle pour des tâches nécessitant une compréhension approfondie et un contexte détaillé.
 
 - **giger-500**  
-  - Very intelligent, best for deep analysis and complex queries.  
-  - Provides precise answers but may take longer to process.
+  - Très intelligent, idéal pour des analyses approfondies et des requêtes complexes.  
+  - Fournit des réponses précises mais peut prendre un peu plus de temps à traiter.
 
-## How to Get Started
-1. **Launch Astra** by double-clicking on **Astra.exe**.
-2. Choose the model you want to work with based on your needs.
-3. Use the commands above to interact with Astra (e.g., `/help`, `/custom <text>`).
-4. Upload images into the **images folder** for analysis.
+## Comment démarrer
+1. **Lancez Astra** en double-cliquant sur **Astra.exe**.
+2. Choisissez le modèle que vous souhaitez utiliser en fonction de vos besoins.
+3. Utilisez les commandes ci-dessus pour interagir avec Astra (par exemple, `/help`, `/custom <texte>`).
+4. Téléchargez des images dans le **dossier images** pour les analyser.
 
-## 🚀 Quick Tips:
-- For simple tasks, **hiju-tiny** is the fastest option.
-- For detailed analysis, consider using **yaga-7** or **giger-500**.
-- Customization options are endless with `/custom <text>`, so feel free to experiment!
+## 🚀 Conseils rapides :
+- Pour des tâches simples, **hiju-tiny** est le modèle le plus rapide.
+- Pour des analyses détaillées, choisissez **yaga-7** ou **giger-500**.
+- Les options de personnalisation sont infinies avec `/custom <texte>`, alors n'hésitez pas à expérimenter !
