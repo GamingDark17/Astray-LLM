@@ -68,5 +68,3 @@ Astra utilise différents modèles optimisés pour diverses tâches. Choisissez 
 - Pour des tâches simples, **hiju-tiny** est le modèle le plus rapide.
 - Pour des analyses détaillées, choisissez **yaga-7** ou **giger-500**.
 - Les options de personnalisation sont infinies avec `/custom <texte>`, alors n'hésitez pas à expérimenter !
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy9ucswKvd8dPqg9CvrmJiEH5ngED9xLgrQ&s
