@@ -4,7 +4,7 @@ Propulsée par **Astray LLM**
 Astra est un assistant IA puissant conçu pour vous aider dans diverses tâches, allant de l'analyse d'images à la fourniture de réponses intelligentes à des requêtes complexes. Vous trouverez ci-dessous un guide pour interagir avec Astra et exploiter toutes ses fonctionnalités.
 
 Aidez **Astray LLM** à améliorer Astra en répondant à un petit questionnaire de 5 minutes :
-https://form.typeform.com/to/xIoFD7Pm
+https://form.typeform.com/to/xIoFD7Pm **(ouvrir dans un nouvel onglet)**
 
 ## 🚀 Commencer avec Astra
 
