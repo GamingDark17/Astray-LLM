@@ -112,6 +112,6 @@ Voici ce que tu pourras faire depuis ton téléphone :
   Change le thème, la voix, les modèles, les plugins... Astra sera **ton IA**.
 
 > 📢 Disponible prochainement en **version bêta**. Tu veux tester en avant-première ?  
-**[Préinscris-toi ici](#)** *(ou remplace par un vrai lien plus tard)*
+**[Préinscris-toi ici](#)**
 
 </details>
