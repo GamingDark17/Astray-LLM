@@ -81,3 +81,37 @@ Pour changer le modèle que **Astra** utilise, vous devez simplement modifier un
 - Pour des tâches simples, **hiju-tiny** est le modèle le plus rapide.
 - Pour des analyses détaillées, choisissez **yaga-7** ou **giger-500**.
 - Les options de personnalisation sont infinies avec `/custom <texte>`, alors n'hésitez pas à expérimenter !
+
+## 📱 Astra arrive bientôt sur Android !
+
+<details>
+  <summary>Découvrir les fonctionnalités prévues</summary>
+
+La version Android d’Astra est en préparation, et elle s’annonce très 🔥  
+Voici ce que tu pourras faire depuis ton téléphone :
+
+- 🎙️ **Contrôle vocal intégré**  
+  Parle directement à Astra, il te répond instantanément.
+
+- 📷 **Photo → Réponse IA**  
+  Prends une photo (document, objet, écran...) et Astra l’analyse pour te répondre en quelques secondes.
+
+- 📂 **Glisser-déposer & partage de fichiers**  
+  Envoie-lui des images ou des fichiers depuis ton smartphone et il te dira ce qu’il voit.
+
+- 🧠 **Mémoire locale**  
+  Astra retiendra ce que tu lui dis (si tu actives l’option).
+
+- 🔒 **Mode privé total**  
+  Tout reste sur ton téléphone. Aucune donnée ne quitte ton appareil.
+
+- ⚡ **Réactivité ultra rapide**  
+  Optimisé pour fonctionner même sur des appareils modestes.
+
+- 🧩 **Personnalisation complète**  
+  Change le thème, la voix, les modèles, les plugins... Astra sera **ton IA**.
+
+> 📢 Disponible prochainement en **version bêta**. Tu veux tester en avant-première ?  
+**[Préinscris-toi ici](#)** *(ou remplace par un vrai lien plus tard)*
+
+</details>
